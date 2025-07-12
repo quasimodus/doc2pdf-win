@@ -1,0 +1,7 @@
+# Requirements for the doc-to-pdf conversion script
+# No external Python dependencies are required for the current script
+# as it uses standard libraries (os, subprocess, pathlib).
+# LibreOffice must be installed separately for the script to work.
+
+# Optional: Add dependencies here if you extend the project, e.g.:
+# comtypes==1.2.0  # For Microsoft Word-based conversion (if used)

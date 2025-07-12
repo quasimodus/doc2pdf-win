@@ -1,0 +1,7 @@
+# Указать, что окончания строк должны быть LF для всех текстовых файлов
+* text=auto
+
+# Можно явно указать для конкретных файлов
+.gitignore text eol=lf
+requirements.txt text eol=lf
+README.md text eol=lf
